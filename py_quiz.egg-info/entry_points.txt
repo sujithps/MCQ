@@ -1,0 +1,3 @@
+[console_scripts]
+py-quiz = py_quiz.__main__:main
+

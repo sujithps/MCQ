@@ -1,0 +1,5 @@
+setup.py
+mcq.egg-info/PKG-INFO
+mcq.egg-info/SOURCES.txt
+mcq.egg-info/dependency_links.txt
+mcq.egg-info/top_level.txt
